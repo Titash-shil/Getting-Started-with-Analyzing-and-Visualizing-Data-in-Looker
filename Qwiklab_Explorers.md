@@ -1,4 +1,4 @@
-#  || [Analyze and activate your data with Looker Enterprise](https://www.cloudskillsboost.google/focuses/88314?parent=catalog) || 
+#  || [Getting Started with Analyzing and Visualizing Data in Looker](https://www.cloudskillsboost.google/focuses/25305?parent=catalog) || 
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
